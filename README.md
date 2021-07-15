@@ -1,7 +1,2 @@
-# rw_git_demo
-这是我和同事合作的项目！！！
-嗯，我就是那个虚拟的同事！！！
-这是feature2的Commit!!!
-0703
-0704
-0706 add original java file
+# HenCoder_Homework
+这是跟着国内Google认证开发专家系统学习Android开发的系列课程作业完成情况打卡！！！
